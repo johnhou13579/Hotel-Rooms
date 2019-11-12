@@ -9,7 +9,10 @@ import Error from './pages/Error';
 function App() {
   return (
   <>
-    Hello
+    <Home />
+    <Rooms />
+    <SingleRoom />
+    <Error />
   </>);
 }
 
